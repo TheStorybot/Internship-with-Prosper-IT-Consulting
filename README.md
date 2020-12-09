@@ -93,5 +93,5 @@ In this snippet I transformed the ActionLink into a button from the templates th
 
 ***
 
-Some of the other things that I learned in this excercise was the ability to communicate effectively with other team members, not only about my stories but about theirs as well.
-
+# Final Thoughts
+The experience was very insightful and lent me the knowledge and confidence to further persue a career in the Software Development/Tech industry.
