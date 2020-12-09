@@ -93,5 +93,5 @@ In this snippet I transformed the ActionLink into a button from the templates th
 
 ***
 
-# Final Thoughts
+### Final Thoughts
 The experience was very insightful and lent me the knowledge and confidence to further persue a career in the Software Development/Tech industry.
